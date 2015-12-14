@@ -1,0 +1,19 @@
+line_id,action,object,target,no,nt,description
+0,line,parchment paper,pan,0,0,0
+0,brush,butter,body,0,0,melted butter
+1,cream,butter,0,3/4 cup,0,0
+1,beat,sugar,body,1 cup,0,0
+2,beat,eggs,body,2,0,one at a time
+3,stir,almond extract,body,1 teaspoon,0,0
+4,mix,flour,body,2 cups,0,0
+4,mix,baking powder,body,2 teaspoon,0,0
+4,mix,salt,body,1 teaspoon,0,0
+5,stir,golden raisins,body,3 cups,0,0
+5,stir,cherries,body,1/2 cup,0,0
+5,stir,pineapple,body,1 (15 ounce) can,0,0
+5,stir,peel,body,1 cup,0,0
+6,leave,body,bowl,0,0,covered bowl
+7,pour,hot water,pan,0,0,0
+7,place,pan,oven,0,0,on the lowest rack of your oven
+7,bake,body_6,oven,300 f,0,2 1/2 hours
+8,brush,butter,body,0,0,warm body

@@ -1,0 +1,22 @@
+line_id,action,object,target,no,nt,description
+0,preheat,oven,0,350 f,0,0
+1,combine,chicken,0,2 cup,0,0
+1,combine,soup,body,1 (10.75 ounce) can,0,0
+1,combine,rice,body,2 cup,0,0
+1,combine,mushrooms,body,1 (4.5 ounce) can,0,0
+1,combine,diced onion,body,1,0,0
+1,combine,ground pepper,body,0,0,0
+1,combine,celery,body,2 stalk,0,0
+1,combine,water chestnuts,body,1 (8 ounce) can,0,0
+1,combine,peanuts,body,1/2 cup,0,0
+2,put,body,casserole dish,0,9x13,0
+3,sprinkle,fried onions,body,1/2 can,0,0
+3,bake,body,oven,0,0,until bubbly and onions are crisp
+4,sprinkle,fried onions,body,1/2 can,0,0
+5,serve,0,0,0,0,0
+
+
+
+
+
+

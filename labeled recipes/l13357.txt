@@ -1,0 +1,8 @@
+line_id,action,object,target,no,nt,description
+0,combine,chicken,pan,2 cup,0,0
+0,combine,mixed vegetables,body,1 (16 ounce),0,0
+0,combine,cream of potato soup,body,1 (10.75 ounce),0,0
+0,combine,cream of chicken soup,body,1 (10.75 ounce),0,0
+0,combine,milk,body,2 cup,0,0
+1,heat,body,0,0,0,0
+1,serve,crumbled crackers,body,0,0,0

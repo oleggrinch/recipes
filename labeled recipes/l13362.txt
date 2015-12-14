@@ -1,0 +1,11 @@
+line_id,action,object,target,no,nt,description
+0,extract,juice,tomatoes,0,4,using a juicer
+1,combine,juice,bowl,0,0,0
+1,combine,avocado,body,1,0,0
+1,combine,corn,body,1/2 cup,0,0
+1,combine,tomatoes,body,2,0,0
+1,combine,cilantro,body,1/4 cup,0,0
+1,combine,lemon juice,body,1 tablespoon,0,0
+2,season,salt,body,0,0,0
+2,season,pepper,body,0,0,0
+3,transfer,body,bowls,0,0,0

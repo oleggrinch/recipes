@@ -1,0 +1,22 @@
+line_id,action,object,target,no,nt,description
+0,melt,butter,pot,1 tablespoon,low heat,0
+1,add,leeks,body,3,0,0
+1,add,onion,body,1,0,0
+1,cover,body,0,0,0,0
+1,cook,body,0,0,0,for 10 minutes
+2,add,potatoes,body,5,0,0
+2,season,salt,body,0,0,0
+2,season,pepper,body,0,0,0
+3,add,thyme,body,1/4 teaspoon,0,0
+3,add,marjoram,body,1/2 teaspoon,0,0
+3,add,bay leaf,body,1,0,0
+3,stir,body,0,0,0,0
+4,cover,body,0,0,0,0
+4,cook,body,0,0,0,for 12 minutes
+5,add,chicken,body,5 cup,0,0
+5,bring,body,boil,0,0,0
+5,reduce,heat,0,0,0,0
+5,cook,body,0,0,0,partially covered for 30 minutes
+6,puree,body,blender,0,0,0
+6,cool,body,0,0,0,0
+7,add,cream,body,1/4 cup,0,0

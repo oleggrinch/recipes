@@ -1,0 +1,27 @@
+line_id,action,object,target,no,nt,description
+0,place,chicken,pot,1 (2 to 3 pound),0,0
+0,place,parsnip,body,1,0,0
+0,place,turnip,body,1 (2 to 3 pound),0,0
+0,place,carrots,body,2,0,0
+0,place,carrots,body,2,0,0
+0,place,celery,body,2 stalks,0,0
+0,place,leek,body,1,0,0
+0,place,onion,body,1,0,0
+0,place,parsley,body,3 sprig,0,0
+0,place,dill,body,1 teaspoon,0,0
+1,cover,body,water,0,0,0
+1,bring,body,boil,0,0,0
+2,reduce,heat,0,0,0,0
+3,cover,body,0,0,0,2 hours
+3,simmer,body,0,0,0,2 hours
+4,remove,chicken,soup,0,0,0
+4,tear,meat,bone,0,0,0
+4,set aside,meat,0,0,0,0
+5,discard,chicken bones,body,0,0,0
+5,discard,parsley,body,0,0,0
+5,discard,dill,body,0,0,0
+6,remove,vegetables,body,0,0,0
+7,puree,vegetables,0,0,0,0
+7,return,vegetables,pot,0,0,along with chicken
+8,salt,body,0,0,0,for taste
+8,pepper,body,0,0,0,for taste

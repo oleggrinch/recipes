@@ -1,0 +1,16 @@
+line_id,action,object,target,no,nt,description
+0,beat,egg,bowl,1,0,0
+0,beat,milk,body,1 cup,0,0
+1,beat,flour,body,1 2/3,0,0
+1,beat,salt,body,1/4 teaspoon,0,0
+1,beat,baking soda,body,3/4 teaspoon,0,0
+1,beat,cream of tartar,body,1/2 teaspoon,0,0
+1,beat,white sugar,body,2 tablespoon,0,0
+2,heat,oil,pan,1 inch,375 f,0
+3,pour,body_1,body_2,1/2 cup,0,through funnel with a circular motion to form a spiral
+4,fry,body,0,0,0,until lightly brown
+5,turn over,body,0,0,0,to brown the other side
+6,cook,body,0,0,0,until golden brown
+6,remove,body,paper towels,0,0,0
+6,drain,body,0,0,0,0
+7,sprinkle,confectioner's sugar,body,1/4 cup,0,while still warm

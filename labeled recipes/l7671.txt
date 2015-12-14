@@ -1,0 +1,19 @@
+line_id,action,object,target,no,nt,description
+0,sift,flour,0,1 3/4,0,0
+0,sift,cocoa,body,2/3 cup,0,0
+0,sift,soda,body,3/4 teaspoon,0,0
+0,sift,baking powder,body,1/2 teaspoon,0,0
+0,sift,salt,body,1 teaspoon,0,0
+1,cream,shortening,0,2/3 cup,0,0
+1,cream,sugar,body,1 2/3 cup,0,0
+1,cream,eggs,body,3,0,0
+2,blend,sourdough starter,body,1 cup,0,0
+3,add,body_0,body_2,0,0,slowly
+3,beat,body,0,0,0,until smooth
+4,stir,water,body,3/4 cup,0,0
+4,stir,vanilla,body,1 teaspoon,0,0
+4,mix,body,0,0,0,0
+5,grease,pan,0,9 x 13 inch,0,0
+5,add,flour,body,0,0,0
+5,pour,body_4,body,0,0,0
+6,bake,body,oven,0,350 f,for 35 minutes

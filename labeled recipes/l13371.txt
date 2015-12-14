@@ -1,0 +1,12 @@
+line_id,action,object,target,no,nt,description
+0,cover,potatoes,water,4,0,0
+1,bring,potatoes,boil,0,0,0
+1,simmer,potatoes,0,0,0,0
+2,cook,onion,pan,1,0,0
+2,cook,bakon,pan,4 slice,0,over medium heat until onions are soft
+3,add,body,potato,0,0,0
+4,add,fish fillets,body,1/4 pound,0,0
+5,heat,body,0,0,0,until fish fillets are cooked through
+6,add,milk,body,1/2 cup,0,to bring soup to your desired taste and texture
+7,season,white pepper,0,0,0,0
+7,serve,body,0,0,0,0

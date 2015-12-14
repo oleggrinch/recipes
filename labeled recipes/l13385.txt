@@ -1,0 +1,18 @@
+line_id,action,object,target,no,nt,description
+0,grate,cucumber,body,2 cup,0,0
+0,grate,onion,body,2 tablespoon,0,0
+0,strain,liquid,body,0,0,0
+1,mix,cream,blender,2 (10.75 ounce) can,0,0
+1,mix,buttermilk,body,2 cup,0,0
+1,mix,cucumber,body,2 cup,0,0
+1,mix,onion,body,2 cup,0,0
+2,blend,body,0,0,0,0
+2,add,cottage cheese,body,1 cup,0,0
+2,blend,body,0,0,0,0
+3,pour,body,bowl,1/2,0,0
+4,add,cottage cheese,body,1 cup,0,0
+4,blend,body,0,0,0,0
+5,combine,soup,bowl,0,0,0
+6,stir,salt,body,1 pinch,0,0
+7,refrigerate,body,0,0,0,0
+8,serve,body,0,0,0,0

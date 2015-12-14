@@ -1,0 +1,26 @@
+line_id,action,object,target,no,nt,description
+0,place,olive oil,sausepan,1 tablespoon,0,0
+0,heat,olive oil, 0,1 tablespoon,0, over medium high heat until hot
+1,add, chicken,body,1/2 pound,0,0
+2,cook,body,0,0,0,5 minutes or until chicken is browned
+2,stir,body,0,0,0,0
+3,add,onion,body,1,0,0
+4,cook,body,body,0,0,2 minutes
+4,stir,body,body,0,0,0
+5,add,chicken broth,body,3 (14.5 ounce) can,0,0
+5,add,undrained tomatoes,body,1 (14.5 ounce) can,0,0
+5,add,northern beans,body,1 (14 ounce) can,0,0
+5,add,carrots,body,2,0,0
+5,add,potato,body,1,0,0
+5,add,salt,body,0,01/4 teaspoon,0
+5,add,pepper,body,1/4 teaspoon,0,0
+6,bring,body,boil,1 cup,0,0
+6,break up,tomatoes,0,0,0,0
+7,reduce,heat,low,0,0,0
+8,cover,body,0,0,0,15 minutes
+8,simmer,body,0,0,0,15 minutes
+9,add,green beans,body,1 cup,0,5 minutes
+9,cook,body,0,0,0,5 minutes
+10,ladle,soup,bowls,0,0,0
+10,top,soup,pesto,0,1 teaspoon,0
+10,sprinkle,soup,parmesan cheese,0,0,0

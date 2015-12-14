@@ -1,0 +1,19 @@
+line_id,action,object,target,no,nt,description
+0,combine,celery,pot,1 cup,0,0
+0,combine,onion,body,1 cup,0,0
+0,combine,potatoes,body,4 cup,0,0
+0,combine,bouillon cubes,body,3 cube,0,0
+0,combine,pepper,body,1/4 teaspoon,0,0
+0,combine,celery salt,body,1/2 teaspoon,0,0
+0,combine,parsley,body,1 tablespoon,0,0
+1,add,water,body,0,0,so that vegetables are fully submerged
+1,cover,body,0,0,0,0
+1,cook,body,0,0,0,until vegetables are tender
+2,melt,butter,skillet,1/2 cup,0,0
+3,add,flour,body,6 tablespoon,0,0
+3,mix,body,0,0,0,until a paste like consistency is formed
+4,add,milk,body,2 cup,0,0
+4,add,flour,body,0,0,0
+4,stir,body,0,0,0,0
+5,keep warm,body,0,0,0,0
+6,serve,body,0,0,0,0

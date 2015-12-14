@@ -1,0 +1,12 @@
+line_id,action,object,target,no,nt,description
+0,combine,soup,pan,1 (10.75 ounce) can,0,0
+0,combine,milk,body_1,1 1/4 cup,0,0
+1,heat,body,0,0,0,through while whisking
+2,boil,water,body_2,1 cup,0,0
+2,boil,rice,body_2,1/2 cup,0,0
+3,reduce,heat,0,0,0,0
+3,simmer,body_2,0,0,0,20 minutes or until tender
+4,add,rice,body_1,0,0,0
+5,cook,body_1,0,0,0,until heated through
+6,add,lemon juice,body_1,2 fluid ounce,0,until a subtle lemon taste develops
+7,serve,body,0,0,0,0

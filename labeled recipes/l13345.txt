@@ -1,0 +1,19 @@
+line_id,action,object,target,no,nt,description
+0,combine,meat,bag,1 1/2 pounds,0,0
+0,combine,flour,body,1/4 cup,0,0
+0,coat,body,0,0,0,0
+1,add,vegetable oil,sausepan,2 tablespoons,0,0
+1,brown,meat,vegetable oil,0,0,0
+2,season,salt,body,0,0,if desired
+2,season,pepper,body,0,0,if desired
+3,add,diced tomatoes,body,2 (14.5 ounce) can,0,0
+3,add,beef broth,body,14 ounce,0,0
+3,add,carrots,body,4,0,0
+3,add,potatoes,body,2,0,0
+3,add,thyme,body,3/4 teaspoon,0,0
+4,bring,body,boil,0,0,0
+5,reduce,heat,medium low,0,0,0
+5,cover,body,0,0,0,0
+6,simmer,body,0,0,0,1 hour or until beef is tender
+7,blend,body,mustard,0,0,0
+7,serve,body,0,0,0,0

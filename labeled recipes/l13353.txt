@@ -1,0 +1,20 @@
+line_id,action,object,target,no,nt,description
+0,saute,butter,pot,2 tablespoon,0,0
+0,saute,onion,body,2 cup,0,0
+1,add,potatoes,body,2 1/2 pound,0,0
+1,add,water,body,5 cup,0,0
+1,add,bouillon cubes,body,4 cube,0,0
+2,cover,body,0,0,0,0
+2,bring,body,boil,0,0,0
+2,reduce,heat,medium,0,0,0
+2,cook,body,0,0,0,until potatoes are tender about 15 minutes
+3,remove,skin,broccoli,0,3 cup,0
+3,cook broccoli,0,3 cup,0,0,0
+4,add,body,soup,0,0,0
+4,puree,soup,blender,1/2,0,0
+4,return,body,pot,0,0,0
+5,season,body,salt,0,0,0
+5,season,body,pepper,0,0,0
+5,add,cheese,body,3 cup,0,0
+5,heat,soup,0,0,0,through until cheese is melted
+6,serve,body,0,0,0,warm

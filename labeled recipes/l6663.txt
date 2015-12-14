@@ -1,0 +1,15 @@
+line_id,action,object,target,no,nt,description
+0,combine,cheese,body,1/2 cup,0,0
+0,combine,pepper,body,3/4 teaspoon,0,0
+0,combine,garlic powder,body,1/2 teaspoon,0,0
+1,unfold,pastry sheets,cutting board,1 (17.5 ounce),0,0
+2,brush,pastry sheets,egg,1 (17.5 ounce),0,0
+3,sprinkle,body,sheet,0,0,0
+3,turn over,body,0,0,0,0
+4,press,body,pastry,0,0,0
+4,turn over,body,0,0,0,0
+5,repeat,body,0,0,0,0
+6,cut,body,strips,0,0,0
+7,twist,body,0,0,0,0
+8,place,body,sheet,0,0,0
+8,bake,body,oven,0,350 f,0

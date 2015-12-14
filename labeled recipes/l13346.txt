@@ -1,0 +1,25 @@
+line_id,action,object,target,no,nt,description
+0,place,beans,pot,1 (16 ounce),0,0
+1,add,water,body,7 cup,0,0
+1,bring,body,boil,0,0,0
+2,boil,body,0,0,0,0
+3,remove,body,heat,0,0,0
+3,let stand,body,0,0,0,for 1 hour
+4,add,ham bone,body,1,0,0
+4,add,cubed ham,body,2 cup,0,0
+4,add,onion,body,1/4 cup,0,0
+4,add,salt,body,1/2 teaspoon,0,0
+4,add,pepper,body,1 pinch,0,0
+4,add,bay leaves,body,1,0,0
+5,boil,body,0,0,0,0
+6,reduce,heat,0,0,0,0
+6,cover,body,0,0,0,for 1 hour and 15 minutes or until beans are soft
+6,simmer,body,0,0,0,for 1 hour and 15 minutes or until beans are soft
+7,skim,soup,0,0,0,0
+8,add,carrots,body,1/2 cup,0,0
+8,add,celery,body,1/2 cup,0,0
+8,cook,body,0,0,0,until tender
+9,remove,ham bone,body,0,0,0
+9,scrape,meat,bone,0,0,0
+9,place back,meat,body,0,0,0
+9,serve,body,0,0,0,0

@@ -1,0 +1,10 @@
+line_id,action,object,target,no,nt,description
+0,combine,tomato juice,pot,1 (46 fluid ounce) can,0,0
+0,combine,potatoes,body,4,0,0
+0,combine,mixed vegetables,body,1 (2 pound),0,0
+0,combine,onion,body,1,0,0
+0,combine,bouillon cubes,body,4 cubes,0,0
+0,combine,water,body,2 cup,0,0
+0,combine,pepper,body,0,0,0
+1,bring,body,boil,0,0,0
+1,simmer,body,0,0,0,until potatoes are done approximately 30 to 40 minutes

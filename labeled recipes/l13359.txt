@@ -1,0 +1,17 @@
+line_id,action,object,target,no,nt,description
+0,place,beef,pot,2 pound,0,0
+0,place,onion,body,1,0,0
+0,place,celery,body,2 stalk,0,0
+0,place,onion,body,1,0,0
+0,place,diced tomatoes,body,1 (14.5 ounce),0,0
+1,add,water,body,2 cup,0,0
+1,bring,body,boil,0,0,0
+1,simmer,body,0,0,0,for 1 hour
+2,add,tomato vegetable juice,body,2 cup,0,0
+2,add,tomato juice,body,2 cup,0,0
+2,add,garlic powder,body,1/2 teaspoon,0,0
+2,season,salt,body,0,0,0
+2,season,pepper,body,0,0,0
+3,bring,body,boil,0,0,0
+3,simmer,body,0,0,0,for 1 1/2 hours
+3,serve,body,0,0,0,0

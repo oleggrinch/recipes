@@ -1,0 +1,22 @@
+line_id,action,object,target,no,nt,description
+0,heat,oil,pot,6 tablespoon,0,0
+0,add,tortillas,body,8 (6 inch),0,0
+0,add,garlic,body,6 clove,0,0
+0,add,cilantro,body,1/2 cup,0,0
+0,add,onion,body,1,0,0
+1,saute,body,0,0,0, for 2 to 3 minutes
+2,stir,tomatoes,body,1 (29 ounce),0,0
+2,bring,body,boil,0,0,0
+3,add,cumin,body,2 tablespoon,0,0
+3,add,chili powder,body,1 tablespoon,0,0
+3,add,bay leaves,body,3,0,0
+3,add,chicken,body,6 cup,0,0
+4,return,body,boil,0,0,0
+4,reduce,heat,medium,0,0,0
+4,add,salt,body,1 teaspoon,0,0
+4,add,cayenne,body,1/2 teaspoon,0,0
+5,simmer,body,0,0,0,for 30 minutes
+5,remove,bay leaves,0,0,0,0
+5,stir,chicken,body,0,0,0
+6,heat,body,0,0,0,0
+6,serve,body,0,0,0,0

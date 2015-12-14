@@ -1,0 +1,26 @@
+line_id,action,object,target,no,nt,description
+0,saute,onion,pot,1,0,until soft
+0,saute,celery,body,1/2 cup,0,until soft
+0,saute,carrots,body,1/4 cup,0,until soft
+0,saute,garlic,body,2 clove,0,until soft
+0,saute,parsley,body,2 tablespoon,0,until soft
+1,sprinkle,flour,body,4 tablespoon,0,0
+1,cook,body,0,0,0,0
+1,stir,body,0,0,0,for 2 minutes
+2,add,broth,body,1 1/2 cup,0,0
+2,stir,body,0,0,0,as you add
+3,add,milk,body,1 1/2 cup,0,0
+3,add,potatoes,body,3,0,0
+3,add,worcestershire sauce,body,2 teaspoon,0,0
+3,add,dry mustard,body,1 1/2 teaspoon,0,0
+3,add,allspice,body,1 pinch,0,0
+3,add,celery seed,body,3/4 teaspoon,0,0
+3,add,thyme,body,1/2 teaspoon,0,0
+3,add,seasoning salt,body,1/2 teaspoon,0,0
+3,add,dry white wine,body,2 tablespoon,0,0
+3,add,cayenne pepper,body,1/4 teaspoon,0,0
+3,add,chicken granules,body,1/4 teaspoon,0,0
+4,allow to simmer,body,0,0,0,until the potatoes are cooked approximately 25 minutes
+4,thicken,body,0,0,0,0
+4,break up,potatoes,spoon,0,0,during cooking
+5,serve,body,0,0,0,warm

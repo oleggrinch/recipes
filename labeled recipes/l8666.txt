@@ -1,0 +1,16 @@
+line_id,action,object,target,no,nt,description
+0,preheat,oven,0,350,0,0
+1,stuff,stuffing,bird,2 cup,3 pound,0
+1,rub,olive oil,body,2 tablespoon,0,0
+2,cut,lemon,0,1,0,in half
+3,cover,lemon,body,half,0,0
+3,cover,stuffling,body,0,0,0
+4,juice,lemon,0,1,0,0
+4,pour,lemon juice,body,0,0,0
+5,season,salt,body,1/4 teaspoon,0,0
+5,season,paprika,body,1/4 teaspoon,0,0
+5,season,rosemary,body,1/4 teaspoon,0,0
+5,season,sage,body,1/4 teaspoon,0,0
+6,cover,body,0,0,0,0
+7,bake,body,oven,0,0,0
+8,baste,body,0,0,0,often

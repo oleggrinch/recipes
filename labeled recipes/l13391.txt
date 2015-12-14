@@ -1,0 +1,7 @@
+line_id,action,object,target,no,nt,description
+0,place,strawberries,blender,2 cup,0,0
+0,place,buttermilk,body,1 cup,0,0
+0,puree,body,0,0,0,0
+1,sweeten,sugar,body,1 teaspoon,0,0
+1,blend,body,0,0,0,0
+1,serve,body,0,0,0,0

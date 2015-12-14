@@ -1,0 +1,21 @@
+line_id,action,object,target,no,nt,description
+0,cook,rice,water,2 cup,6 cup,until cooked through and tender
+1,combine,broth,pot,4 cup,0,0
+1,combine,rice,body,2 cup,0,0
+1,combine,corn,body,1 cup,0,0
+1,combine,broth,body,4 cup,0,0
+1,combine,green onions,body,1/2 cup,0,0
+1,combine,red pepper,body,2 tablespoon,0,0
+1,combine,green pepper,body,2 tablespoon,0,0
+1,combine,parsley,body,1 tablespoon,0,0
+1,combine,tarragon,body,1 teaspoon,0,0
+2,mix,body,0,0,0,0
+2,cook,body,0,0,0,medium heat until mixture boils
+2,reduce,heat,0,0,0,0
+2,simmer,body,0,0,0,5 minutes or until corn is tender
+3,mix,cornstarch,bowl,2 tablespoon,0,0
+3,mix,water,bowl,0,0,0
+4,add,body,soup,0,0,0
+4,cook,body,0,0,0,0
+5,stir,body,0,0,0,0
+5,serve,body,0,0,0,once soup has thickened

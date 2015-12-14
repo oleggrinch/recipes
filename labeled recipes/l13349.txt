@@ -1,0 +1,26 @@
+line_id,action,object,target,no,nt,description
+0,add,black beans,pot,1 pound,0,0
+0,add,water,body,10 cup,0,0
+0,add,ham,body,1 pound,0,0
+0,add,onion,body,1,0,0
+0,add,celery,body,2 stalk,0,0
+0,add,diced tomatoes,body,1 (14.5 ounce),0,0
+0,add,minced garlic,body,1 tablespoon,0,0
+0,add,garlic powder,body,4 teaspoon,0,0
+0,add,parsley,v,4 teaspoon,0,0
+0,add,salt,body,2 teaspoon,0,0
+0,add,celery salt,v,4 teaspoon,0,0
+0,add,worcestershire sauce,v,1 teaspoon,0,0
+0,add,bouillon cubes,body,2 cube,0,0
+0,add,bay leaf,body,1,0,0
+0,add,pepper,body,1/2 teaspoon,0,0
+0,add,mustard,body,1/2 teaspoon,0,0
+0,add,cayenne pepper,body,1/4 teaspoon,0,0
+0,add,oregano,body,1/4 teaspoon,0,0
+0,add,thyme,body,1/4 teaspoon,0,0
+1,cover,body,0,0,0,0
+1,bring,body,boil,0,0,0
+2,reduce,heat,0,0,0,for 2 hours
+2,simmer,body,0,0,0,for 2 hours
+3,discard,bay leave,body,0,0,0
+3,serve,body,0,0,0,0

@@ -1,0 +1,30 @@
+line_id,action,object,target,no,nt,description
+0,dredge,beef,flour,1 pound,3 tablespoon,0
+0,brown,beef,shortening,1 pound,3 tablespoon,0
+0,brown,beef,body,1 pound,3 tablespoon,0
+0,brown,body,pot,1 pound,0,0
+1,add,salt,body,1 teaspoon,0,0
+1,add,pepper,body,1/8 teaspoon,0,0
+1,add,water,body,4 cup,0,0
+1,add,onion,body,1,0,0
+1,add,paprika,body,1/4 teaspoon,0,0
+1,add,garlic,body,1,0,0
+1,add,worcestershire sauce,body,1 teaspoon,0,0
+1,add,bay leave,body,1,0,0
+2,bring,body,boil,0,0,0
+2,cover,body,0,0,0,for 2 hours or until meat is tender
+2,simmer,body,0,0,0,for 2 hours or until meat is tender
+3,add,carrots,body,3,0,0
+3,add,potatoes,body,3,0,0
+3,simmer,body,0,0,0,for 45 minutes or until tender
+3,remove,bay leave,stew,0,0,0
+3,remove,meat,stew,0,0,0
+3,add,flour,body,1 tablespoon,0,0
+3,add,cornstarch,body,1 tablespoon,0,0
+3,mix,body,body,0,0,in order to thicken stew
+4,let sit,body,0,0,0,0
+4,repeat,body,0,0,0,0
+5,return,meat,body,0,0,0
+5,add,corn,stew,0,0,0
+5,heat,body,0,0,0,0
+5,serve,body,0,0,0,0

@@ -1,0 +1,11 @@
+line_id,action,object,target,no,nt,description
+0,brown,ground beef,pot,1 1/2 pound,0,over medium heat
+0,season,salt,body,0,0,0
+0,season,pepper,body,0,0,0
+1,add,tomato soup,body,3 (10.75 ounce),0,0
+1,fill,pot,water,0,0,0
+1,add,carrots,body,1 pound,0,0
+1,add,potatoes,body,3,0,0
+2,add,green beans,body,16 ounces,0,if desired
+2,bring,soup,boil,0,0,if desired
+2,simmer,body,0,0,0,for 15 to 20 minutes or until vegetables are tender

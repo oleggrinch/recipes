@@ -1,0 +1,15 @@
+line_id,action,object,target,no,nt,description
+0,heat,oil,skillet,1 1/2 tablespoon,0,0
+1,add,cabbage,body,1/4,0,0
+1,add,pork,body,4 ounce,0,0
+2,fry,body,0,0,0,until pork in no longer pink inside approximately 5 minutes
+3,stir,body,0,0,0,while it is frying
+4,add,chicken broth,body,6,0,0
+4,add,soy sause,body,2 tablespoon,0,0
+4,add,ginger,body,1/2 teaspoon,0,0
+4,bring,body,boil,0,0,0
+5,reduce,heat,low,0,0,0
+6,simmer,body,0,0,0,10 minutes  stirring occasionally
+7,stir,onion,body,8,0,0
+7,add,noodles,body,4 ounce,0,0
+8,cook,body,0,0,0,until noodles are tender 2 to 4 minutes

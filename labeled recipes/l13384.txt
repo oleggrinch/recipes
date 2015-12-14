@@ -1,0 +1,19 @@
+line_id,action,object,target,no,nt,description
+0,cover,peas,water,2 1/4 cup,0,0
+0,soak,body,0,0,0,over night
+1,add,ham bone,body,1 1/2 pound,0,0
+1,add,onion,body,2,0,0
+1,add,salt,body,1/2 teaspoon,0,0
+1,add,pepper,body,1/4 teaspoon,0,0
+1,add,marjoram,body,1 pinch,0,0
+2,cover,body,0,0,0,0
+2,bring,body,boil,0,0,0
+2,simmer,body,0,0,0,for 1 1/2 hours stirring occasionally
+2,remove,bone,body,0,0,0
+2,cut off,meat,bone,0,0,0
+2,dice,meat,bone,0,0,0
+2,return,meat,soup,0,0,0
+3,add,celery,body,3 stalk,0,0
+3,add,carrots,body,3,0,0
+3,add,potatoes,body,1,0,0
+4,cook,body,0,0,0, uncovered for 30 to 40 minutes or until vegetables are tender
