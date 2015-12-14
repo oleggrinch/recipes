@@ -1,0 +1,18 @@
+line_id,action,object,target,no,nt,description
+0,combine,broth,pot,2 (14 ounce) can,0,0
+0,combine,corn,body,1 (14.75 ounce) can,0,0
+0,combine,chicken,body,1/2 cup,0,0
+1,bring,body,boil,0,0,0
+1,reduce,heat,low,0,0,0
+1,add,pepper,body,1/4 teaspoon,0,0
+1,add,salt,body,1/4 teaspoon,0,0
+1,bring back,body,boil,0,0,0
+2,mix,cornstarch,bowl,2 tablespoon,0,0
+2,mix,water,body_2,0,0,0
+3,add,body_2,body,0,0,0
+3,stir,body,0,0,0,0
+4,season,sesame oil,body,1 tablespoon,0,0
+5,reduce,heat,0,0,0,0
+5,add,egg,body,1,0,0
+6,add,scallion,body,0,0,0
+6,serve,body,0,0,0,0

@@ -1,0 +1,14 @@
+line_id,action,object,target,no,nt,description
+0,season,garlic salt,chicken breasts,6,1 teaspoon,0
+0,season,pepper,body,6,0,0
+2,cook,chicken breasts,0,0,0,until browned
+3,add,onion,body,1,0,0
+4,cook,body,0,0,0,until onion is browned  3 to 4 minutes
+5,pour,diced tomatoes,chicken,1 (14.5 ounce),0,0
+5,pour,balsamic vinegar,body,1/2 cup,0,0
+6,season,basil,body,1 teaspoon,0,0
+6,season,oregano,body,1 teaspoon,0,0
+6,season,rosemary,body,1 teaspoon,0,0
+6,season,rosemary,body,1/2 thyme,0,0
+7,simmer,body,0,0,0,15 minutes
+8,insert, thermometer,body,0,0,165 f

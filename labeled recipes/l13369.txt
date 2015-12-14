@@ -1,0 +1,11 @@
+line_id,action,object,target,no,nt,description
+0,season,salt,beef,0,2 pound,0
+0,season,pepper,body,0,2 pound,0
+0,season,paprika,body,0,1/4 teaspoon,0
+1,brown,oil,body,0,1 tablespoon,0
+1,brown,onion,body,0,1,0
+1,cover,body,water,0,0,0
+1,simmer,body,0,0,0,for 3 to 4 hours or until tender
+2,add,water,body,0,0,0
+3,add,potatoes,body,0,0,0
+3,add,chili,body,0,0,0

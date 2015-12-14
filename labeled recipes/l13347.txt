@@ -1,0 +1,11 @@
+line_id,action,object,target,no,nt,description
+0,saute,bacon,pan,6 slices,0,0
+0,saute,onions,body,1,0,0
+1,set aside,body,0,0,0,0
+2,cook,flour,body,1 tablespoon,0,until pasty
+3,add,chicken broth,doby,6 cup,0,0
+3,bring,body,boil,0,0,0
+4,stir,body,body,0,0,0
+5,simmer,body,0,0,0,30 minutes
+5,blend,body,0,0,0,half and half
+6,serve,body,0,0,0,0

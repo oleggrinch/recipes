@@ -1,0 +1,10 @@
+line_id,action,object,target,no,nt,description
+0,mix,cream of celery soup,cooker,1 (10.75 ounce) can,0,0
+0,mix,cream of potato soup,body,1 (10.75 ounce) can,0,0
+0,mix,clam chowder,body,1 (10.75 ounce) can,0,0
+0,mix,undrained clams,body,1 can,0,0
+0,mix,drained clams,body,1 can,0,0
+0,mix,half and half cream,body,1 quart,0,0
+0,mix,whipping cream,body,1 pint,0,0
+1,cover,body,0,0,0,0
+1,cook,body,0,0,0,on low for 6 to 8 hours

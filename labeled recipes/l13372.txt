@@ -1,0 +1,8 @@
+line_id,action,object,target,no,nt,description
+0,bring,beef stock,boil,2 quart,0,in a large stock pot
+1,add,beef,body,1 cup,0,0
+1,add,barley,body,1 (12 ounce),0,0
+1,reduce to simmer,body,0,0,0,0
+1,cook,body,0,0,0,at least 1 hour
+2,add,ground pepper,body,0,0,0
+3,cook,body,0,0,0,until soup reaches desired thickness

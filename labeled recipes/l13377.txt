@@ -1,0 +1,17 @@
+line_id,action,object,target,no,nt,description
+0,brown,sirloin,pot,1 1/2 pounds,0,0
+0,brown,onion,body,1 1/2 pounds,0,0
+0,brown,onion,body,1 1/2 pounds,0,0
+1,drain,grease,body,0,0,0
+1,add,tomatoes,body,2 (14.5 ounce),0,0
+1,add,water,body,2 (14.5 ounce),0,0
+1,add,salt,body,1 tablespoon,0,0
+1,add,beef bouillon,body,2 cube,0,0
+1,add,carrots,body,2,0,0
+1,add,celery,body,2 stalk,0,0
+1,add,potatoes,body,1 russet,0,0
+1,add,thyme,body,1/4 teaspoon,0,0
+1,add,bay leaf,body,1,0,0
+1,add,basil,body,1/4 teaspoon,0,0
+2,cover,body,0,0,0,0
+2,cook,body,0,0,0,until vegetables are tender approximately 45 minutes

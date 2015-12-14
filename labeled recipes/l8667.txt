@@ -1,0 +1,19 @@
+line_id,action,object,target,no,nt,description
+0,combine,green onions,body,6,0,0
+0,combine,onion,body,1,0,0
+0,combine,jalapeno pepper,body,1,0,0
+0,combine,soy sause,body,3/4 cup,0,0
+0,combine,vinegar,body,1/2 cup,0,0
+0,combine,vegetable oil,body,1/4 cup,0,0
+0,combine,brown sugar,body,2 tablespoon,0,0
+0,combine,thyme,body,1 tablespoon,0,0
+0,combine,cloves,body,1/2 teaspoon,0,0
+0,combine,nutmeg,body,1/2 teaspoon,0,0
+0,combine, allspice,body,1/2 teaspoon,0,0
+1,mix,body,body,0,0,15 seconds
+2,place,chicken,bowl,1/2 pounds,medium,0
+2,coat,marinade,chicken,0,0,0
+3,refrigerate,body,0,0,0,4 to 6 hours
+4,preheat,grill,0,0,0,high heat
+5,oil,oil,grill grate,0,0,0
+6,cook,chicken,grill,0,0,6 to 8 minutes

@@ -1,0 +1,23 @@
+line_id,action,object,target,no,nt,description
+0,heat,oil,pot,1 tablespoon,0,0
+1,saute,onion,oil,3 clove,0,0
+1,saute,garlic,body,3 clove,0,0
+2,stir,chili powder,body,0,2 teaspoon,0
+2,stir,oregano,body,0,1 teaspoon,0
+2,stir,tomatoes,body,0,1 (28 ounce),0
+2,stir,broth,body,0,1 (10.5 ounce) can,0
+2,stir,water,body,0,1 1/4 cup,0
+3,bring,body,boil,0,0,0
+3,simmer,body,0,0,0,for 5 to 10 minutes
+4,stir,body,corn,1 cup,0,0
+4,stir,body,hominy,1 cup,0,0
+4,stir,body,chiles,1 (4 ounce) can,0,0
+4,stir,body,beans,1 (15 ounce) can,0,0
+4,stir,body,cilantro,1/4 cup,0,0
+4,stir,body,chicken,2,0,0
+5,simmer,body,0,0,0,0
+6,ladle,soup,bowls,0,0,0
+6,top,soup,tortilla chips,0,0,0
+6,top,soup,avocado,0,0,0
+6,top,soup,cheese,0,0,0
+6,top,soup,green onion,0,0,0

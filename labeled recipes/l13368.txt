@@ -1,0 +1,26 @@
+line_id,action,object,target,no,nt,description
+0,cover,water,pot,4 quart,0,0
+0,cover,chicken,water,1 (4 pound),0,0
+0,cover,onion,water,1,0,0
+1,cook,body,0,0,0,approximately 1 hour
+1,remove,chicken,body,0,0,0
+1,let cool,body,0,0,0,0
+1,remove,meat,bones,0,0,0
+2,cut,meat,pieces,0,0,0
+2,discard,skin,bones,0,0,0
+2,cut,corn,cobs,1 (10 ounce),0,if using fresh corn
+2,add,corn,body,0,0,0
+2,cut up,chicken,pot,0,0,0
+2,cut up,celery,pot,0,0,0
+2,season,salt,body,0,0,0
+2,season,pepper,body,0,0,0
+3,simmer,soup,0,0,0,for 10 minutes
+4,make,rivels,bowl,0,0,0
+4,mix,flour,body,1 cup,0,0
+4,mix,salt,body,1 pinch,0,0
+4,mix,egg,body,0,0,0
+4,mix,milk,body,1/4 cup,0,0
+5,drop,rivels,body,0,0,0
+5,add,eggs,body,1,0,0
+5,simmer,body,0,0,0,for 15 minutes
+5,serve,body,0,0,0,hot

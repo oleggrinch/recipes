@@ -1,0 +1,17 @@
+line_id,action,object,target,no,nt,description
+0,preheat,oven,0,450 f,0,0
+1,wash,chicken,0,7,0,0
+1,pat dry,chicken,0,0,0,0
+2,mix,oregano,0,2 teaspoon,0,0
+2,mix,salt,body,0,0,0
+2,mix,pepper,body,0,0,0
+3,rub,body_2,chicken,0,7,0
+4,put,chicken,baking dish,0,9x13 inch,0
+5,juice,lemon,0,1/2,0,0
+5,whisk,lemon juice,oil,0,1/4 cup,0
+5,drizzle,body_5,body,half,0,0
+6,bake,body,oven,0,0,15 minutes
+7,turn,chicken,0,0,0,0
+7,drizzle,body_5,chicken,half,0,0
+8,bake,body,0,0,0,15 to 20 minutes
+9,serve,0,0,0,0,0

@@ -1,0 +1,14 @@
+line_id,action,object,target,no,nt,description
+0,boil,water,pot,3 quart,0,0
+0,add,salt,body,3 tablespooon,3 quart,0
+1,add,macaroni,body,2 cup,0,0
+1,cook,body,0,0,0,until tender
+2,drain,liquid,body,0,0,0
+2,return,body,pot,0,0,0
+3,add,clams,body,2 (6.5 ounce),0,0
+3,add,tomatoes,body,2 cup,0,0
+3,add,chili peppers,body,1 (4 ounce),0,0
+3,add,chicken broth,body,1 (14.5 ounce),0,0
+4,toss to coat,pasta,0,0,0,0
+5,warm,body,0,0,0,0
+5,serve,body,cheese,1/2 cup,0,0

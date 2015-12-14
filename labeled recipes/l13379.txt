@@ -1,0 +1,16 @@
+line_id,action,object,target,no,nt,description
+0,add,water,pot,8 cup,0,0
+0,add,potatoes,body,6,0,0
+0,add,onion,body,1,0,0
+0,add,celery,body,4 stalks,0,0
+0,season,salt,body,0,0,0
+0,season,pepper,body,0,0,0
+1,bring,body,boil,0,0,0
+1,simmer,body,0,0,0,until potatoes and vegetables are tender
+2,mash,soup,0,0,0,with a potato masher
+2,add,butter,body,2 tablespoon,0,0
+2,add,cream,body,2 (11 ounce) can,0,0
+2,simmer,body,0,0,0,0
+3,add,soup,body,0,0,0
+3,blend,body,0,0,0,0
+4,serve,body,0,0,0,0

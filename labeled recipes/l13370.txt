@@ -1,0 +1,23 @@
+line_id,action,object,target,no,nt,description
+0,saute,onions,olive oil,1/2 cup,0,0
+0,saute,carrots,body,1,0,0
+0,saute,celery,body,1/4 cup,0,0
+0,saute,garlic,body,1 clove,0,0
+0,saute,ham,body,0,0,0
+1,add,chicken broth,pot,6 cup,0,0
+1,add,tomato juice,body,3 cup,0,0
+1,add,red beans,body,2 cup,0,0
+1,add,parsley,body,1 tablespoon,0,0
+1,add,basil,body,2 teaspoon,0,0
+1,add,red pepper,body,1/8 teaspoon,0,0
+1,add,vinegar,body,1 tablespoon,0,0
+1,add,sugar,body,2 teaspoon,0,0
+1,season,salt,body,0,0,0
+1,season,pepper,body,0,0,0
+2,simmer,body,0,0,0,for 1 hour
+3,fill,pot,water,0,0,0
+3,bring,pot,boil,0,0,0
+4,add,pasta,body,0,0,0
+4,cook,body,0,0,0,until tender and drain
+5,place,pasta,bowls,1 (16 ounce),0,0
+5,ladle,soup,0,0,0,0

@@ -1,0 +1,15 @@
+line_id,action,object,target,no,nt,description
+0,rinse,rice,body,2 cup,0,0
+0,set aside,body,0,0,0,for 2 hours or until moistened
+1,heat,sesame oil,sausepan,1 tablespoon,0,0
+2,add,shrimp,body,9 ounce,0,0
+2,add,rice wine,body,1 tablespoon,0,0
+2,fry,body,0,0,0,0
+3,add,rice,body,0,0,0
+3,fry,body,0,0,0,for 1 minute
+3,pour,water,body,12 cup,0,0
+3,boil,body,medium heat,0,0,0
+4,reduce,heat,low,0,0,when the rice and shrimp mixture is thickened or the rice expands about 3 times
+5,continue to cook,body,0,0,0,for 10 minutes
+6,season,salt,body,0,0,0
+6,serve,body,0,0,0,0

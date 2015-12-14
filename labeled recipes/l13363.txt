@@ -1,0 +1,9 @@
+line_id,action,object,target,no,nt,description
+0,place,onions,cooker,3 pound,0,0
+0,place,butter,body,1/2 cup,0,0
+0,mix,body,0,0,0,until onions are thoroughly coated
+1,stir,bread,body,7 slice,0,0
+1,stir,chicken broth,body,4 1/2 cup,0,0
+1,cover,body,0,0,0,0
+1,cook,body,low,0,0,for 10 to 18 hours or on high 4 to 5 hours
+2,stir,body,0,0,0,well during last hour

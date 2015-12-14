@@ -1,0 +1,16 @@
+line_id,action,object,target,no,nt,description
+0,boil,potatoes,pot,5 pound,0,until tender
+1,drain,water,0,2,0,0
+2,mix,potatoes,body,0,0,0
+2,mix,water,body,0,0,0
+3,add,milk,body,2 cup,0,0
+3,add,carrots,body,1 pound,0,0
+3,add,celery,body,1 stalk,0,0
+3,add,onions,body,3,0,0
+3,add,garlic,body,5 clove,0,0
+3,add,green bell pepper,body,1,0,0
+3,add,chicken bouillon cube,body,5 cube,0,0
+3,add,bay leaves,body,3,0,0
+3,add,pepper,body,3 tablespoon,0,0
+3,add,salt,body,1 tablespoon,0,0
+3,season,red pepper,body,1/4 teaspoon,0,0

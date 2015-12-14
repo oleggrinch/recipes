@@ -1,0 +1,21 @@
+line_id,action,object,target,no,nt,description
+0,combine,butter,saucepan,1 cup,0,0
+0,combine,cocoa,body,1/4 cup,0,0
+0,combine,water,body,1 cup,0,0
+1,cook,body,0,0,0,until butter is melted
+2,stir,sugar,bowl,2 cups,0,0
+2,stir,flour,bowl,2 cups,0,0
+2,stir,soda,bowl,1 teaspoon,0,0
+2,stir,cinnamon,bowl,1 teaspoon,0,0
+3,add,body_2,body_1,0,0,cocoa mixture to flour mixture
+4,combine,eggs,buttermilk,1/2 cup,0,0
+4,beat,body,0,0,0,0
+4,blend,body_4,body_3,0,0,into batter
+5,stir,vanilla,body,1 teaspoon,0,0
+6,pour,body,pan,0,0,ungreased 9 x 13 inch pan
+7,bake,body,oven,0,350 f,20 minutes
+
+
+
+
+

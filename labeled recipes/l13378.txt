@@ -1,0 +1,14 @@
+line_id,action,object,target,no,nt,description
+0,brown,ground meat,pot,0,0,0
+1,drain,fat,body,0,0,0
+1,add,pepper,body,1,0,0
+1,add,onion,body,1,0,0
+2,cook,body,0,0,0,until onion is translucent not letting them brown
+3,cover,body,0,0,0,0
+3,simmer,body,0,0,0, for 30 to 45 minutes until peppers are tender
+4,boil,water,saucepan,2,0,0
+4,add,rice,saucepan,1,0,0
+4,cook,body,0,0,0,0
+4,add,rice,body,0,0,0
+5,heat,soup,0,0,0,0
+6,serve,body,0,0,0,0

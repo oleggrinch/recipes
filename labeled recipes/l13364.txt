@@ -1,0 +1,14 @@
+line_id,action,object,target,no,nt,description
+0,place,chicken,cooker,1 1/2 cup,0,0
+0,place,onion,body,1/2,0,0
+0,place,tomatoes,body,2,0,0
+0,place,hominy,body,2 (15 ounce) can,0,0
+0,place,beans,body,1 (15 ounce) can,0,0
+0,place,green chili peppers,body,1 (7 ounce) can,0,0
+0,place,oregano,body,1 pinch,0,0
+0,place,chili powder,body,1/2 teaspoon,0,0
+0,place,pepper,body,1/4 teaspoon,0,0
+1,add,chicken broth,body,4 cup,0,0
+1,cook,body,low,0,0,6 hours
+2,add,potato flakes,body,2 1/2 tablespoon,0,an hour prior to serving
+2,let thicken,body,0,0,0,0

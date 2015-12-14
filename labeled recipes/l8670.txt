@@ -1,0 +1,16 @@
+line_id,action,object,target,no,nt,description
+0,heat,oil,pan,2 tablespoon,0,0
+1,add,onions,body,1,0,0
+1,add,green chile peppers,body,2,0,0
+1,add,garam masala,body,1 teaspoon,0,0
+1,fry,body,0,0,0,until onions turn golden brown
+2,add,chicken,body,1 pound,0,0
+2,add,turmeric,body,1/2 teaspoon,0,0
+2,add,nutmeg,body,1 pinch,0,0
+2,add,chili powder,body,1 teaspoon,0,0
+2,cook,body,0,0,0,5 to 6 minutes
+3,add,salt,body,0,0,0
+3,add,coriander,body,3 teaspoon,0,0
+3,cook,body,0,0,0,until done
+4,garnish,cilantro,body,1 tablespoon,0,0
+4,serve,0,0,0,0,0

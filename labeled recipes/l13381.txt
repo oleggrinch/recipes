@@ -1,0 +1,13 @@
+line_id,action,object,target,no,nt,description
+0,combine,tomatoes,pot,1 (29 ounce),0,0
+0,combine,chicken broth,body,1 (10.5 ounce),0,0
+0,combine,butter,body,2 tablespoon,0,0
+0,combine,sugar,body,2 tablespoon,0,0
+0,combine,onion,body,1 tablespoon,0,0
+0,combine,baking soda,body,1/4 teaspoon,0,0
+1,bring,body,boil,0,0,over medium high heat
+1,reduce,heat,low,0,0,0
+1,simmer,body,0,0,0,for 1 hour
+1,stir,body,cream,0,2 cup,0
+2,cook,body,0,0,0,until heated through
+2,serve,body,0,0,0,0

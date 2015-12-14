@@ -1,0 +1,11 @@
+line_id,action,object,target,no,nt,description
+0,brown,ground beef,pot,1 1/4 pound,0,0
+1,drain,grease,0,0,0,0
+1,add,tomato vegetable juice,body,46 ounces,0,0
+1,add,tomatoes,body,1 (29 ounce) can,0,0
+1,add,kidney beans,body,1 (15 ounce) can,0,0
+1,add,black beans,body,1 (15 ounce) can,0,0
+1,add,corn,body,1 (15.25 ounce),0,0
+1,add,taco seasoning,body,2 (1 ounce),0,0
+2,heat,body,0,0,0,through
+2,serve,body,0,0,0,0
